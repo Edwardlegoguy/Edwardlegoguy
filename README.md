@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Creating Games
 - 🌱 I’m currently learning ...japanese history
 - 💞️ I’m looking to collaborate on ...coding
-- 📫 How to reach me ...
+- 📫 How to reach me ...ninjinn44@gmail.com or edomamee@gmail.com
 
 <!---
 Edwardlegoguy/Edwardlegoguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
